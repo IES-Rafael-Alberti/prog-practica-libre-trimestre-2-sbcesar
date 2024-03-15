@@ -71,10 +71,10 @@ He usado constructores para inicializar objetos en diferentes clases. Por ejempl
 
 En esta clase se puede ver que he aplicado los constructores correctamente para agregarle algunos atributos (propiedades) a la clase
 
-      class Usuario(
+      [class Usuario(
          private var nombre: String,
          private var nick: String,
-      )
+      )](https://github.com/IES-Rafael-Alberti/prog-practica-libre-trimestre-2-sbcesar/blob/ff8044e99f9d84b9591f861c4f0c7cdd8e41592c/src/main/kotlin/Steam/Usuario.kt)
 
 En esta funcion instancio las propiedades de la clase Usuario
 
